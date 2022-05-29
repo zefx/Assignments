@@ -1,3 +1,3 @@
 ### Assignments
 
-Code examples
+Code examples for Python Basic course assignments
